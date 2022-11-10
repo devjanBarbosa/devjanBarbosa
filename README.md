@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Jan Barbosa
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jan-freitas-barbosa-8b598a234/)
 
-![Jan GitHub stats](https://github-readme-stats.vercel.app/api?username=JanLuiz&show_icons=true&theme=transparent)<br/>
+![Jan GitHub stats](https://github-readme-stats.vercel.app/api?username=devjanBarbosa&show_icons=true&theme=transparent)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjanBarbosa)](https://github.com/devjanBarbosa/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia a dia:
